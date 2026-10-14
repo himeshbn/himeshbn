@@ -12,9 +12,9 @@ security checks into engineering workflows.
 - Security Automation (Python tooling)
 
 ## Featured Projects
-- 🔐 [HackTheProxy](link) — biometric attendance system, SHA-256 credential hashing, 95% spoof rejection
-- 🏗️ [Secure Task Manager](link) — MERN stack, JWT hardening, automated CI/CD
-- ⚡ [CryptoBench](link) — benchmarked 8 lightweight ciphers on ESP32
+- 🔐 [HackTheProxy](https://github.com/himeshbn/HackTheProxy) — biometric attendance system, SHA-256 credential hashing, 95% spoof rejection
+- 🏗️ [Secure Task Manager](https://github.com/himeshbn/Task-Manager-Application) — MERN stack, JWT hardening, automated CI/CD
+- ⚡ [CryptoBench](https://github.com/himeshbn/CryptoBench) — benchmarked 8 lightweight ciphers on ESP32
 - 🛡️ [secure-ci-pipeline](link) — SAST + SCA + secrets + container scanning gate
 - ☁️ [aws-security-auditor](link) — Python CSPM tool for IAM/S3/EC2/CloudTrail
 
