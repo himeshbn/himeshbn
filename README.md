@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Himesh BN
+### Cybersecurity Engineer | Application Security | Cloud Security | Security Automation
 
-<!--
-**himeshbn/himeshbn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity-focused Computer Science & Engineering graduate building
+secure applications, auditing cloud infrastructure, and automating
+security checks into engineering workflows.
 
-Here are some ideas to get you started:
+## What I Build
+- Application & API Security (OWASP Top 10, Burp Suite, OWASP ZAP)
+- Cloud Security (AWS IAM/S3/EC2 posture checks)
+- DevSecOps (CI/CD security gates, SAST/SCA/secret scanning)
+- Security Automation (Python tooling)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- 🔐 [HackTheProxy](link) — biometric attendance system, SHA-256 credential hashing, 95% spoof rejection
+- 🏗️ [Secure Task Manager](link) — MERN stack, JWT hardening, automated CI/CD
+- ⚡ [CryptoBench](link) — benchmarked 8 lightweight ciphers on ESP32
+- 🛡️ [secure-ci-pipeline](link) — SAST + SCA + secrets + container scanning gate
+- ☁️ [aws-security-auditor](link) — Python CSPM tool for IAM/S3/EC2/CloudTrail
+
+## Currently Learning
+Detection engineering · Infrastructure as Code security · Cloud security automation
+
+📫 himesh.bn024@gmail.com | [Portfolio](https://himeshbn.github.io/) | [LinkedIn](https://www.linkedin.com/in/himeshbn/)https://www.linkedin.com/in/himeshbn/
