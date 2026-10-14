@@ -21,4 +21,4 @@ security checks into engineering workflows.
 ## Currently Learning
 Detection engineering · Infrastructure as Code security · Cloud security automation
 
-📫 himesh.bn024@gmail.com | [Portfolio](https://himeshbn.github.io/) | [LinkedIn](https://www.linkedin.com/in/himeshbn/)https://www.linkedin.com/in/himeshbn/
+📫 himesh.bn024@gmail.com | [Portfolio](https://himeshbn.github.io/) | [LinkedIn](https://www.linkedin.com/in/himeshbn/)
